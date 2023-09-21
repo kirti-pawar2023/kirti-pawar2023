@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirti-pawar2023
+- 👋 Hi, I’m @kitrti-pawar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning b-tech final year
 - 💞️ I’m looking to collaborate on final year project
